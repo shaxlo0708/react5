@@ -1,0 +1,61 @@
+.card {
+    width: 250px;
+    margin: 0 auto;
+    height: 250px;
+    background-color: rgb(107, 163, 241);
+    border-radius: 10px;
+}
+
+.qizil {
+    background-color: red;
+    border-radius: 50%;
+    padding: 15px;
+    width: 35px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.sariq {
+    background-color: yellow;
+    border-radius: 50%;
+    padding: 15px;
+    width: 35px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.aaa {
+    padding: 30px;
+}
+
+.btnm {
+    border-radius: 50%;
+    padding: 12px;
+    border: none;
+    background-color: blue;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.btn {
+    border-radius: 50%;
+    padding: 10px;
+    border: none;
+    background-color: red;
+    margin-left: 52px;
+}
+
+.searchch {
+    margin-top: 100px;
+}
+
+.searchch input {
+    padding: 10px 15px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.datas {
+    text-align: center;
+}

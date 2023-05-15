@@ -1,23 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import Vazifa1 from './Components/Vazifa1';
+import Vazifa2 from './Components/Vazifa2';
+
+import './Components/main.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Vazifa1 />
+      <Vazifa2 />
     </div>
   );
 }
